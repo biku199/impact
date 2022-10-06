@@ -1,0 +1,87 @@
+*{
+  padding: 0px;
+  margin: 0px;
+
+}
+.navbar1{
+
+     height: 90px;
+}
+/*----card----*/
+h1{
+  border-left: 2px solid yellow;
+  margin-left: 50px;
+}
+.card-title1{
+  font-size: 15px;
+  color:black;
+}
+.card-body1{
+   background-color: lightgrey;
+}
+.card-body1 a:hover
+{
+   color:black;
+   background-color: aliceblue;
+}
+.btn{
+  margin-left:30px;
+}
+.card1{
+  margin-left: 150px;
+}
+.card1 img:hover{
+
+   opacity: 0.8;
+}
+.card2 img:hover{
+
+  opacity: 0.8;
+}
+.cards img:hover
+{
+   opacity: 0.8;
+}
+.card2{
+  margin-left: 100px;
+}
+/*---carousel--*/
+
+/*---body1---*/
+.container2{
+     
+  background-color: darkgray;
+  height: 75vh;
+  
+
+}
+.card-body2{
+  background-color: aliceblue;
+  padding-top: 140px;
+  
+}
+.card-body2 a{
+   color: black;
+}
+.card-body2 a:hover{
+
+   background-color:blue;
+   color: aliceblue;
+}
+.card-body3{
+  margin-left: 10px;
+  margin-top: 20px;
+  height: 50vh;
+}
+.course{
+
+  padding-top: 20px;
+}
+.btn3{
+
+   margin-top:60px;
+
+
+}
+
+
